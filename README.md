@@ -13,7 +13,9 @@ To install with pip, run:
 Quickstart Guide
 ----------------
 
-TODO - fill this in later
+Heres some sample code demonstrating how this module is used
+
+
 
 Contribute
 ----------
